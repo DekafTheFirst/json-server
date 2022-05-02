@@ -3,46 +3,56 @@
     {
       "name": "Benz AMG GTS",
       "price": "$120,000 MSRP",
-      "id": 1
+      "id": 1,
+      "img": "https://img.philkotse.com/2020/04/11/20200411104921-3f0a.jpg"
     },
     {
       "name": "Benz C300 4MATIC",
-      "price": "$90,000 MSRP",
+      "price": "$90,000 MSRP",            
+      "img": "https://www.cnet.com/a/img/resize/bc3760edfb960aac9e88e8d4bf49a8f263e117ca/hub/2019/01/29/8b79743f-eb4f-4b72-99d3-ece4768a2002/mercedes-c300-promo.jpg?auto=webp&width=768",
       "id": 2
+      
     },
     {
       "name": "Benz AMG GT C63",
       "price": "$210,000 MSRP",
+      "img": "https://cdn.carbuzz.com/gallery-images/2021-mercedes-amg-gt-63-front-angle-view-carbuzz-664326.jpg",
       "id": 3
     },
     {
       "name": "MAYBACH 5500",
       "price": "$300,000 MSRP",
+      "img": "https://images.carandbike.com/car-images/large/mercedes-maybach/s-class/mercedes-maybach-s-class.webp?v=26",
       "id": 4
     },
     {
       "name": "BENZ AMG G63",
       "price": "$260,000 MSRP",
+      "img": "https://img.philkotse.com/2020/04/11/20200411104921-3f0a.jpg",
       "id": 5
     },
     {
       "name": "BENZ AMG G63",
       "price": "$260,000 MSRP",
+      "img": "https://images.carandbike.com/car-images/large/mercedes-maybach/s-class/mercedes-maybach-s-class.webp?v=26",
       "id": 6
     },
     {
       "name": "BENZ AMG G63",
       "price": "$260,000 MSRP",
+      "img": "https://cdn.carbuzz.com/gallery-images/2021-mercedes-amg-gt-63-front-angle-view-carbuzz-664326.jpg",
       "id": 7
     },
     {
       "name": "BENZ AMG G63",
       "price": "$260,000 MSRP",
+      "img": "https://www.cnet.com/a/img/resize/bc3760edfb960aac9e88e8d4bf49a8f263e117ca/hub/2019/01/29/8b79743f-eb4f-4b72-99d3-ece4768a2002/mercedes-c300-promo.jpg?auto=webp&width=768",
       "id": 8
     },
     {
       "name": "BENZ AMG G63",
       "price": "$260,000 MSRP",
+      "img": "https://img.philkotse.com/2020/04/11/20200411104921-3f0a.jpg",
       "id": 9
     }
   ]
